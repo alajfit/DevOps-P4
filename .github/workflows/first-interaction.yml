@@ -1,5 +1,5 @@
 name: Developer Welcome
-on: pull_request_review
+on: push
 jobs:
   welcome:
     name: Welcome new Developers
