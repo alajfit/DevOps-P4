@@ -14,4 +14,4 @@ In this practical exercise you will learn how to:
 - Create build artefacts and share them between jobs
 - Automate pull request reviews using GitHub actions  
 
-Its Done
+Done
